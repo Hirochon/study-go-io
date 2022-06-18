@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"github.com/Hirochon/study-go-io/chap2"
+)
 
 func main() {
-	fmt.Println("Hello World.")
+	chap2.Chap2()
 }
